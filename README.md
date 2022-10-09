@@ -37,3 +37,12 @@ streamlit run super_resolution.py
 ![example](https://user-images.githubusercontent.com/108822253/194754773-d34beee2-4ef7-48ba-87a6-a2c5565fce82.png)
 
 ## File Description
+
+### models
+1. data
+* crop_attach_image.py : Crop a low-resolution image to 64 patches and attach upscaling images to restore
+* customTrain.csv / customValid.csv / test.csv : CSV files which are the lists of train images, valid images and test images
+
+2. modules
+* pretrained models : SwinIR pretrained models
+* 
