@@ -11,7 +11,7 @@ Through the Dacon contest dataset, we implemented Image Super-Resolution with ou
 ### Dataset
 * Train data : 1640 LR(512*512) & HR(2048*2048) images
 * Test data : 18 LR images
-* Dacon contest : [AI 양재 허브 인공지능 오픈소스 경진대회](https://dacon.io/competitions/official/235977/overview/description)
+* Dacon contest link : [AI 양재 허브 인공지능 오픈소스 경진대회](https://dacon.io/competitions/official/235977/overview/description)
 
 ### Custom Model
 * 사진입력
