@@ -1,2 +1,2 @@
-# Image_Super_Resolution-22_Fall_ModelingProject
+# Image Super Resolution - 22 Fall Modeling Project
 Data Science Lab 2022 Fall Modeling Project Repository
