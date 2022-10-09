@@ -45,4 +45,24 @@ streamlit run super_resolution.py
 
 2. modules
 * pretrained models : SwinIR pretrained models
-* 
+* dataset.py : Transform images and build custom dataset
+* edsr.py : Customized EDSR model
+* swinir.py : Customized SwinIR model
+* losses.py : For L1 loss in train process
+* model.py : Our own made super-resolution model code
+
+3. others
+* inference_dacon.py : Code of super resolution for test set
+* main.py : The whole process from building dataset to super resolution
+* train.py : Train process code
+
+### results
+* CustomModel_30.pt : pretrained custom super resolution model
+
+### streamlit
+* app_funcs.py : Functions that are used in streamlit app
+* super_resolution.py : Code to run streamlit app
+* uploads : test images
+
+### others
+* requirements.txt : Required dependencies to run the streamlit app
