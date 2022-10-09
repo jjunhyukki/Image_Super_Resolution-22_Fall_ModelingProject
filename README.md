@@ -14,7 +14,7 @@ Through the Dacon contest dataset, we implemented Image Super-Resolution with ou
 * Dacon contest link : [AI 양재 허브 인공지능 오픈소스 경진대회](https://dacon.io/competitions/official/235977/overview/description)
 
 ### Custom Model
-<img width="306" alt="Screen Shot 2022-09-19 at 8 06 46 PM" src="https://user-images.githubusercontent.com/108822253/194754343-856a787e-143c-43a0-b679-780bf444189f.png">
+
 
 
 ## Streamlit
