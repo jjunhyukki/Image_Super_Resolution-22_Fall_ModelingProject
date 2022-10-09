@@ -51,7 +51,7 @@ streamlit run super_resolution.py
 * losses.py : For L1 loss in train process
 * model.py : Our own made super-resolution model code
 
-3.others
+3. others
 * inference_dacon.py : Code of super resolution for test set
 * main.py : The whole process from building dataset to super resolution
 * train.py : Train process code
