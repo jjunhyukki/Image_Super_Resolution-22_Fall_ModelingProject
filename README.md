@@ -34,5 +34,6 @@ streamlit run super_resolution.py
 3. Upload your low-resolution image and get high-resolution image
 
 ### Results
+![example](https://user-images.githubusercontent.com/108822253/194754773-d34beee2-4ef7-48ba-87a6-a2c5565fce82.png)
 
 ## File Description
