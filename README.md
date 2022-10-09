@@ -7,7 +7,7 @@ Collaborators : 최명헌, 장준혁, 최윤서, 황진우, 조보경
 Through the Dacon contest dataset, we implemented Image Super-Resolution with our custom model using EDSR and SwinIR as streamlit app.
 
 ## Overview
-***
+
 ### Dataset
 * Train data : 1640 LR(512*512) & HR(2048*2048) images
 * Test data : 18 LR images
@@ -17,7 +17,7 @@ Through the Dacon contest dataset, we implemented Image Super-Resolution with ou
 * 사진입력
 
 ## Streamlit
-***
+
 ### Installation
 * Run the command ___pip install -r requirements.txt___ to install requirements
 
